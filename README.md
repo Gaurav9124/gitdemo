@@ -1,3 +1,3 @@
 # gitdemo
-first git repository
+first git repository.
 edited -me
